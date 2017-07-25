@@ -1,4 +1,4 @@
-
+# para mais informações: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 # use GIT STATUS a qualquer momento para saber o que há no Staged Area
 0. git status

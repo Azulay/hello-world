@@ -1,6 +1,9 @@
 # hello-world
 Mais uma vez fazendo um tutorial de Git para lembrar como funciona isso ...
 
+# use GIT STATUS a qualquer momento para saber o que há no Staged Area
+0. git status
+
 # Clonar o repositório remoto
 1. git clone https://github.com/Azulay/hello-world.git
 
